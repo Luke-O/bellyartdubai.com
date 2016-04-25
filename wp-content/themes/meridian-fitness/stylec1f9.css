@@ -727,7 +727,7 @@ body.rtl .col-last {
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background: rgba( 30, 48, 60, 0.75 );
+		background: rgba( 30, 48, 60, 0.40 );
 	}
 
 /*--------------------------------------------------------------
@@ -1223,7 +1223,7 @@ body.has-slider #header-main {
 				left: 0;
 				right: 0;
 				bottom: 0;
-				background: rgba( 30, 48, 60, 0.75 );
+				background: rgba( 30, 48, 60, 0.40 );
 			}
 
 		.slider-slide-main {
@@ -1546,7 +1546,7 @@ body.has-slider #header-main {
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background: rgba( 30, 48, 60, 0.7 );
+		background: rgba( 30, 48, 60, 0.4 );
 	}
 
 	.home-subscribe .wrapper {
